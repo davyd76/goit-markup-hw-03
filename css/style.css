@@ -12,9 +12,18 @@ body{
    text-transform:uppercase ;
    color: #4d5ae5
 }
-.logo-text{
-    font-weight:500;
-}
 .studio_color{
     color:#2e2f42
 }
+.nav-link
+{
+    font-weight: 500;
+    line-height:1.5;
+    letter-spacing:0.02em;
+    color:#2e2f42;
+}
+.nav-link:focus {
+    color:#404bbf }
+    .nav-link:hover{
+        color:#404bbf
+    }
