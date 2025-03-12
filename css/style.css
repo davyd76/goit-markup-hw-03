@@ -53,7 +53,7 @@ body{
     }
     .type-button{
         background-color:#4D5AE5;
-        font-family:"Roboto,sans-serif";
+        font-family:"Roboto",sans-serif;
         font-weight:500;
         font-size:16px;
         line-height:1.5;
@@ -65,5 +65,15 @@ body{
     }
     .type-button:focus{
         background-color:#404BBF;
-        cursor:pointer;
+        cursor:pointer;}
+    .id-class{
+font-weight:500;
+font-size:20px;
+line-height:1.2;
+letter-spacing:0.02em;
+color:#2e2f42;
+    }
+    .Strategy-class{
+      line-height:1.5;
+      letter-spacing:0.02em; 
     }
