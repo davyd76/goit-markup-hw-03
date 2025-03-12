@@ -27,3 +27,6 @@ body{
     .nav-link:hover{
         color:#404bbf
     }
+    .address_text{
+        font-style:normal;   
+    }
