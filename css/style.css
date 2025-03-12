@@ -8,7 +8,13 @@ body{
    font-weight:700;
    font-size: 18px;
    line-height: 1.17;
-   letter: spacing 0.03em;;
+   letter: spacing 0.03em;
    text-transform:uppercase ;
    color: #4d5ae5
+}
+.logo-text{
+    font-weight:500;
+}
+.studio_color{
+    color:#2e2f42
 }
