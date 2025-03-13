@@ -66,14 +66,14 @@ body{
     .type-button:focus{
         background-color:#404BBF;
         cursor:pointer;}
-    .id-class{
+        .strategy-title{
 font-weight:500;
 font-size:20px;
 line-height:1.2;
 letter-spacing:0.02em;
 color:#2e2f42;
     }
-    .Strategy-class{
+    .strategy-text{
       line-height:1.5;
       letter-spacing:0.02em; 
     }
